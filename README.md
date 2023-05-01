@@ -11,3 +11,5 @@
 
 6- Datos de acceso por defecto: usuario: admin y contraseña: admin
 
+Software by RompeBucles
+
